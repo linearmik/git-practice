@@ -1,2 +1,3 @@
 - git status
 - git push
+- git push
